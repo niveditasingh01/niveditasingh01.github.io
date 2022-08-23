@@ -12,7 +12,7 @@
     <meta name="author" content="Nivedita Singh" />
     <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 " />
-    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
+    <meta name="keywords" content="jekyll, jekyll-theme, cayman, portfolio-website" />
 
 
     <!-- Bootstrap & MDB -->
