@@ -110,7 +110,7 @@
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           Nivedita Singh
+           --Nivedita Singh--
           </h1>
           <p class="desc"></p>
         </header>
